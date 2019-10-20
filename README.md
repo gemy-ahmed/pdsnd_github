@@ -10,7 +10,5 @@ Programming Language used python 3.7
 
 Libraries used pandas time
 
-Credits Resources helped me to complete the project:
-
 pandas: powerful Python data analysis toolkit (BOOK) 2-youtube 
 
