@@ -14,4 +14,3 @@ Credits Resources helped me to complete the project:
 
 pandas: powerful Python data analysis toolkit (BOOK) 
 
-Libraries used pandas time
