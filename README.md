@@ -7,10 +7,7 @@ Thanks to the rise in information technologies, it is easy for a user of the sys
 Files used chicago.csv new_york_city.csv washington.csv
 
 Programming Language used python 3.7
-
 Libraries used pandas time
-
 Credits Resources helped me to complete the project:
-
-pandas: powerful Python data analysis toolkit (BOOK) 
+pandas: powerful Python data analysis toolkit (BOOK) 2-youtube
 
